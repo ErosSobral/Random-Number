@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(198, 199, 199);
+    text-align: center;
+}
+#Botao{
+    font-size: 12.2em;
+    background-color: rgb(154, 149, 158);
+    padding: 15px;
+    border-radius: 15px;
+    text-shadow: 2px 2px 5px black;
+    color: beige;
+    box-shadow: none;
+}
+#label{
+    font-size: 15em;
+    color: rgb(156, 178, 189);
+    text-shadow: 2px 2px 5px black;
+
+}
